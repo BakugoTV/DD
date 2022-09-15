@@ -1,0 +1,4 @@
+Heaume de téléportation
+[ Helm of Teleportation ]
+Objet merveilleux, rare (nécessite un lien)
+Ce heaume possède 3 charges. Tant que vous en êtes équipé, vous pouvez l'utiliser, par une action et en dépensant 1 charge, pour lancer le sort téléportation. Le heaume récupère 1d3 charges dépensées chaque jour à l'aube.
